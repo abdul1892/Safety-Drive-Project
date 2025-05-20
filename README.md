@@ -127,8 +127,8 @@ FaceBoxesNet is a neural network architecture designed for object detection. Bel
 The project resource can be found at [3DDFA](https://github.com/cleardusk/3DDFA).
 
 ##Contact
-Magesh Manickam M
+J Abdul Rahman
 
-Email: magesh22m@gmail.com
+Email: abdulrahmanj965@gmail.com
 
-Project Link: https://github.com/MagManic/SafetyDrive-Project
+Project Link: https://github.com/abdul1892/Safety-Drive-Project
