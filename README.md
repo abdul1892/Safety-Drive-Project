@@ -51,7 +51,7 @@ python SafeDriveVision.py --onnx
 python SafeDriveVision.py --onnx --opt 3d
 ```
 
-https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/63037957-e444-4b53-aa55-416eb4d1c29b
+
 
 
 3. **2d V0**
@@ -60,7 +60,7 @@ python SafeDriveVisionV0.py
 
 ```
 
-https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/da0ef059-df9f-4ceb-9683-73e7fd228400
+
 
 
 4. **Google Colab**
