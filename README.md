@@ -26,7 +26,7 @@ SafeDriveVision is a computer vision project aimed at enhancing road safety. Thi
 
 1. **Clone the repository:** :
 ```
-git clone https://github.com/MagManic/SafetyDrive-Project
+git clone https://github.com/abdul1892/SafetyDrive-Project
 ```
 3. **Install the necessary dependencies:** :
  ```
@@ -42,7 +42,7 @@ git clone https://github.com/MagManic/SafetyDrive-Project
 python SafeDriveVision.py --onnx
 ```
 
-https://github.com/MagManic/SafetyDrive-Project/assets/116897761/e8325afc-63f3-4010-851d-f391d25b86ac
+https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/e8325afc-63f3-4010-851d-f391d25b86ac
 
 
 
@@ -51,7 +51,7 @@ https://github.com/MagManic/SafetyDrive-Project/assets/116897761/e8325afc-63f3-4
 python SafeDriveVision.py --onnx --opt 3d
 ```
 
-https://github.com/MagManic/SafetyDrive-Project/assets/116897761/63037957-e444-4b53-aa55-416eb4d1c29b
+https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/63037957-e444-4b53-aa55-416eb4d1c29b
 
 
 3. **2d V0**
@@ -60,7 +60,7 @@ python SafeDriveVisionV0.py
 
 ```
 
-https://github.com/MagManic/SafetyDrive-Project/assets/116897761/da0ef059-df9f-4ceb-9683-73e7fd228400
+https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/da0ef059-df9f-4ceb-9683-73e7fd228400
 
 
 4. **Google Colab**
