@@ -42,7 +42,7 @@ git clone https://github.com/abdul1892/SafetyDrive-Project
 python SafeDriveVision.py --onnx
 ```
 
-https://github.com/abdul1892/SafetyDrive-Project/assets/116897761/e8325afc-63f3-4010-851d-f391d25b86ac
+
 
 
 
