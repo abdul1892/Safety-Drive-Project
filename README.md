@@ -127,6 +127,7 @@ FaceBoxesNet is a neural network architecture designed for object detection. Bel
 The project resource can be found at [3DDFA](https://github.com/cleardusk/3DDFA).
 
 ##Contact
+
 J Abdul Rahman
 
 Email: abdulrahmanj965@gmail.com
